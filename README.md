@@ -25,5 +25,9 @@ With each step of gradient descent, the parameters thets come close to the optim
 ### Output-
 As we perform gradient descent to learn minimize the cost function, it is helpful to monitor convergence by computing the cost. The graph below shows the convergence of the cost function.
 
+![Convergence](https://github.com/mustafashabbir10/Linear-Regression/blob/master/Images/Convergence.PNG)
+
 This graph above clearly shows that graident descent has converged.
+
+![Output](https://github.com/mustafashabbir10/Linear-Regression/blob/master/Images/Output.PNG)
 The graph below shows the regression line fitted from Gradient Descent and Scikit-Learn. It can be clearly seen that both of these overlap and are nearly the same.
